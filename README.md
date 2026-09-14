@@ -1,5 +1,5 @@
 # lions-tigers-bears
-Name:         Ian Jung
+Name:         Ian Jung\n
 Project Name: Lions, Tigers, and Bears, Oh My!
 
 ## Instructions
@@ -7,9 +7,9 @@ Project Name: Lions, Tigers, and Bears, Oh My!
 2. Ensure all files are within the same folder:
    - index.html
    - main.css
-   - main.js
+   - main.js\n
 No additional software is required to run this program
 
 ## Credits
-All work in this project was created using a tutorial by Brad Schiff, uploaded in 2020:
+All work in this project was created using a tutorial by Brad Schiff, uploaded in 2020:\n
 Tutorial: youtube.com/watch?v=AVmGmLFcukM&t=0s
